@@ -10,8 +10,6 @@
 		  canvas:canvas,
 		  autoplay: true,
 	  });
-	  
-	  
 	})
 </script>
 <main>
