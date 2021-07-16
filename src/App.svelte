@@ -3,7 +3,7 @@
   	import {Rive} from 'rive-js'
 	import {onMount} from 'svelte'
 	
-	let canvas
+	let canvas,rive
 	onMount(() => {
 		rive = new Rive({
 		   src: 'rive_test.riv',
